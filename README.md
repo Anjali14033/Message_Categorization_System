@@ -1,9 +1,7 @@
 # MESSAGE CATEGORIZATION SYSTEM PROJECT
 
 ## Project Overview
-Message Categorization is an intelligent spam mail classifier developed using Logistic Regression techniques. 
-The project aims to accurately classify emails as either spam or ham (non-spam) based on their content. 
-The dataset consists of thousands of labelled emails with two columns: "category" (spam or ham) and "message" (email content).
+The **Message Categorization System** project aims to develop a model for classifying emails as either spam or ham (non-spam) using Logistic Regression techniques. The model is trained on a dataset of labelled emails, where the text data is preprocessed to remove stop words and converted into numerical features using TF-IDF (Term Frequency-Inverse Document Frequency) techniques. The trained model achieves a high accuracy score of 96% on the test data, allowing it to effectively classify new emails as spam or ham based on their content.
 
 
 ## Objectives
